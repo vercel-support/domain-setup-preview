@@ -94,6 +94,8 @@ export default function Home() {
             height={16}
           />
           Go to nextjs.org →
+
+          THIS IS A PREVIEW DEPLOYMENT
         </a>
       </footer>
     </div>
